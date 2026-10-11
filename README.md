@@ -2,7 +2,7 @@
 
 Ask questions across multiple uploaded PDFs using a React frontend, FastAPI backend, Gemini for answer generation, Sentence Transformers for local embeddings, and FAISS for similarity search.
 
-![Architecture](image.png)
+![Architecture](Multi-PDF Chat Architecture Diagram.png)
 ## Requirements
 - Python 3.10+
 - Node.js 18+
